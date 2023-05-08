@@ -23,7 +23,7 @@ async function WeatherPage({ params: { city, lat, long } }: Props) {
       current_weather: "true",
       latitude: lat,
       longitude: long,
-      timezone: "GMT",
+      timezone: "Africa/Nairobi",
     },
   });
 
