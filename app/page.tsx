@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-[#394F68] to-[#183B7B] p-10 flex flex-col justify-center items-center">
       <Card className="max-w-4xl mx-auto">
-        <Text className="text-6xl font-bold text-center mb-10">
+        <Text className="text-5xl md:text-6xl font-bold text-center mb-10">
           The VIBE Weather AI
         </Text>
         <Subtitle className="text-xl text-center">
